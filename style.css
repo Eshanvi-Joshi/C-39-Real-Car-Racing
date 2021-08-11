@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
+
+.greeting{
+  font-size: 40px;
+  color:aquamarine;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.customButton{
+  width: 180px;
+  height: 50px;
+  background-color: blueviolet;
+  border-radius: 10px;
+}
